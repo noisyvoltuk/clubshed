@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Garden Pond Depth Sensor"
-date:   2020-04-16 13:18:24 -0400
+date:   2024-04-16 13:18:24 -0400
 series: "pond filler"
-categories: home automation
+categories: renewables
 ---
 
 # A starting point

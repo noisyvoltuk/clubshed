@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Garden Pond Filler"
-date:   2020-04-16 13:14:24 -0400
+date:   2024-04-16 13:14:24 -0400
 series: "pond filler"
-categories: home automation
+categories: renewables
 ---
 
 # A summer project.
