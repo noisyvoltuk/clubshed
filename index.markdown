@@ -4,3 +4,12 @@
 
 layout: home
 ---
+
+
+My shed activities are based around the prefix re
+
+repair
+refurbish
+repurpose
+renewables
+
