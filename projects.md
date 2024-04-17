@@ -27,7 +27,7 @@ Renewables
 also software reuse
 1. [3D printing workbench](/3d-printing/2024/04/12/3D-print-workbench.html)
 2. Mini drone
-3. Music effectd pedal board
+3. Music effects pedal board
 4. Synth librarian
 
 other?
