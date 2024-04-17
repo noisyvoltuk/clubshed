@@ -11,4 +11,5 @@ A summary list of projects which are being blogged about
 3. Simple MIDI sequencer
 4. Garden Pond Filler
 5. This blog
+6. a bunch of repair and restore things
 
