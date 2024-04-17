@@ -14,11 +14,14 @@ Repair and restore
 
 Reuse
 1. An old drum machine
+2. old PCs, laptop and desktop
+3. old phones and tablets
 
 
 Renewables
 1. Solar power in the garden
 2. Rainwater pond top up
+3. Home solar monitoring
 
 
 also software reuse
