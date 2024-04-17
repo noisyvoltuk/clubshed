@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Some Links
-permalink: /somelinks/
+title: About
+permalink: /about/
 ---
-
 
 social
 
