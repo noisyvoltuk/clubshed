@@ -20,7 +20,7 @@ Reuse
 
 Renewables
 1. Solar power in the garden
-2. [Rainwater pond top up] (/renewables/2024/04/16/garden-pond-filler.html)
+2. [Rainwater pond top up](/renewables/2024/04/16/garden-pond-filler.html)
 3. Home solar monitoring
 
 
