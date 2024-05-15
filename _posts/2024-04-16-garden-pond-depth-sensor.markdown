@@ -27,4 +27,4 @@ A pressure sensor may also have the advantage of being easier to conceal.
 
 For instance [MS5837-30BA](https://docs.rs-online.com/c97e/A700000006772506.pdf).
 
-
+and also view [adafruit tutorial](https://learn.adafruit.com/lps35hw-water-resistant-pressure-sensor/arduino)
