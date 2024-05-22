@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "GWater Depth Sensor"
+date:   2024-05-116 13:14:24 -0400
+series: "pond filler"
+categories: renewables
+---
+
+# Water Depth Sensing.
+
 Water Depth Sensing
 The obvious starting point to maitianing the water level in a pond must be soem reliable way of sensign the actual water level
 
